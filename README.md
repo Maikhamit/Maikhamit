@@ -1,54 +1,45 @@
 <!-- HERO GIF BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Jam </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Technical+Lead+%7C+Cybersecurity+Practitioner;SOC+%7C+VAPT+%7C+Threat+Hunting;Secure+Dev+%7C+Automation+%7C+Blue+Team+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Technical+Lead+%7C+Cybersecurity+Practitioner;SOC+%7C+VAPT+%7C+Threat+Hunting;Frontend+Dev+%7C+Automation+%7C+Blue+Team+%7C+Red+Team" />
 </p>
 
 ---
 
 ## 🛡️ What I Do
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420" />
-</p>
 
-- 🔐 Cybersecurity (SOC, IR, Threat Hunting, VAPT)
-- 💻 Programming & Automation (scripts, tooling, secure development)
-- 📍 Philippines
+- 🔐 Cybersecurity (SOC, Pentesting, Threat Hunting, VAPT)
+- 💻 Programming & Automation
+- 📍 Technical Writer
+- 🎨 Graphics Design
+- 📸 Multimedia Producer
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,linux,docker,git,bash,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,linux,docker,git,bash,postgres,mysql,vscode,figma,ps,notion&perline=8" />
 </p>
 
 ---
 
-## ⚡ Cyber + Code Animations
+## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="310" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="310" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Snapshot (Optional)
+## 🧠 Mindset
 
-> Note: These are static images (not GIF). If you want a fully GIF-only profile,
-> I can remove this section entirely.
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Maikhamit&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikhamit&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+> **I explore where others hesitate.  
+> I take risks with purpose.  
+> I secure, build, break, and improve—  
+> relentlessly.**
 
 ---
 
@@ -65,6 +56,3 @@
 </p>
 
 <!-- FOOTER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" height="120" />
-</p>
