@@ -34,12 +34,16 @@
 
 ---
 
-## 🧠 Mindset
+<h2 align="center">🧠 Mindset</h2>
 
-> **I explore where others hesitate.  
-> I take risks with purpose.  
-> I secure, build, break, and improve—  
-> relentlessly.**
+<p align="center">
+  <strong>
+    I explore where others hesitate.<br/>
+    I take risks with purpose.<br/>
+    I secure, build, break, and improve—<br/>
+    relentlessly.
+  </strong>
+</p>
 
 ---
 
