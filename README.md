@@ -20,7 +20,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,linux,docker,git,bash,postgres,mysql,vscode,figma,ps,notion&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,linux,docker,git,bash,postgres,mysql,vscode,django,figma,ps,notion&perline=8" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=react-dark&hide_border=true" />
 </p>
 
 ---
