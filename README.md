@@ -1,23 +1,29 @@
-<!-- HEADER BANNER -->
+<!-- HERO GIF BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Technical%20Lead%20%26%20Cybersecurity%20Practitioner&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
-## 👋 Hello, I'm Mika!
+<h1 align="center">👋 Hi, I'm Jam </h1>
 
-I’m a **Technical Lead specializing in Cybersecurity** and software development, based in the **Philippines**.  
-I build, secure, and automate systems—bridging **security** and **code**.
-
-### 🔐 Focus Areas
-- SOC Operations / Security Monitoring
-- VAPT / Application Security
-- Threat Hunting & Incident Response
-- Automation & Scripting
-- Secure Development Practices
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Technical+Lead+%7C+Cybersecurity+Practitioner;SOC+%7C+VAPT+%7C+Threat+Hunting;Secure+Dev+%7C+Automation+%7C+Blue+Team+Mindset" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛡️ What I Do
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420" />
+</p>
+
+- 🔐 Cybersecurity (SOC, IR, Threat Hunting, VAPT)
+- 💻 Programming & Automation (scripts, tooling, secure development)
+- 📍 Philippines
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,linux,docker,git,bash,postgres" />
@@ -25,27 +31,40 @@ I build, secure, and automate systems—bridging **security** and **code**.
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Cyber + Code Animations
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maikhamit&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikhamit&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="310" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="310" />
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## 📊 GitHub Snapshot (Optional)
+
+> Note: These are static images (not GIF). If you want a fully GIF-only profile,
+> I can remove this section entirely.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=tokyo-night&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Maikhamit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikhamit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 Mindset
+## 📫 Connect with Me
 
-```text
-Secure by design.
-Automate the repeatable.
-Hunt, validate, document.
-Improve continuously.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maikha13/">
+    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="140" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maikha13/">LinkedIn</a>
+</p>
+
+<!-- FOOTER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" height="120" />
+</p>
