@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Technical+Lead+%7C+Cybersecurity+Practitioner;SOC+%7C+VAPT+%7C+Threat+Hunting;Frontend+Dev+%7C+Automation+%7C+Blue+Team+%7C+Red+Team" />
 </p>
+
 ---
 
 ## 🛡️ What I Do
