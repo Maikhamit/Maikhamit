@@ -28,7 +28,7 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=github-compact&hide_border=true" />
 </p>
 
 ---
