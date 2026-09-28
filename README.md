@@ -1,61 +1,65 @@
-<!-- HERO GIF BANNER -->
-<h1 align="center">👋 Hi, I'm Jam </h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Technical+Lead+%7C+Cybersecurity+Analyst;SOC+%7C+VAPT+%7C+Threat+Hunting;Frontend+Dev+%7C+Automation+%7C+Blue+Team+%7C+Red+Team" />
-</p>
+# Hi, I'm Jam 👋
 
----
+### Technical Lead · Cybersecurity Analyst · Builder
 
-## 🛡️ What I Do
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00C896&center=true&vCenter=true&width=650&lines=Securing+systems%2C+one+finding+at+a+time;VAPT+%7C+SOC+%7C+Threat+Hunting;Building+tools+and+learning+every+day" alt="Typing introduction" />
 
-- 🔐 Cybersecurity (SOC, Pentesting, Threat Hunting, VAPT)
-- 💻 Programming & Automation
-- 📍 Technical Writer
-- 🎨 Graphics Design
-- 📸 Multimedia Producer
+<br/>
+
+**`> assess · investigate · build · improve`**
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+### 🛡️ About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,linux,docker,git,bash,postgres,mysql,vscode,django,figma,ps,notion&perline=8" />
-</p>
+I’m a cybersecurity Technical Lead with a hands-on background in vulnerability assessment, penetration testing, and security reporting. I enjoy turning technical findings into clear actions that help teams strengthen their systems.
 
----
+- 🔎 **Security:** Web, API, mobile, and network VAPT
+- 🧠 **Growing in:** Blue team operations, threat hunting, GRC, and audit
+- ⚙️ **Building with:** Python, JavaScript, and automation
+- 📝 **Also into:** Technical writing, design, and multimedia
 
-## 🔥 Activity Graph
+### ⚡ Tools & Technologies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&theme=high-contrast&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,linux,docker,git,bash,postgres,mysql,vscode,django,figma,ps&perline=8" alt="Tools and technologies" />
 
-<h2 align="center">🧠 Mindset</h2>
+</div>
 
-<p align="center">
-  <strong>
-    I explore where others hesitate.<br/>
-    I take risks with purpose.<br/>
-    I secure, build, break, and improve—<br/>
-    relentlessly.
-  </strong>
-</p>
+### 📡 Activity Monitor
 
----
+<div align="center">
 
-## 📫 Connect with Me
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&bg_color=0D1117&color=39FF88&line=00D26A&point=FFFFFF&area=true&area_color=00D26A&hide_border=true&custom_title=JAM%20%2F%2F%20CONTRIBUTION%20SIGNAL"
+  alt="Jam's GitHub contribution activity graph"
+/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maikha13/">
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="140" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maikha13/">LinkedIn</a>
-</p>
+<code>● SYSTEM ONLINE</code> &nbsp; <code>● BUILDING</code> &nbsp; <code>● LEARNING</code>
 
-<!-- FOOTER GIF -->
+</div>
+
+### 🧭 How I Work
+
+> Understand the system. Validate the risk. Explain the impact. Help make it safer.
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/maikha13/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Jam on LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by — stay curious and keep learning. 🔐</sub>
+
+</div>
