@@ -31,18 +31,6 @@ I’m a cybersecurity Technical Lead with a hands-on background in vulnerability
 
 </div>
 
-### 📡 Activity Monitor
-
-<div align="center">
-
-<a href="https://github.com/Maikhamit?tab=overview">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00D26A?style=for-the-badge&labelColor=0D1117" alt="Status: busy" />
-</a>
-<a href="https://github.com/Maikhamit?tab=overview">
-  <img src="https://img.shields.io/badge/VIEW-LIVE_CONTRIBUTIONS-00D26A?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="View live GitHub contributions" />
-</a>
-
-
 ### 🧭 How I Work
 
 > Understand the system. Validate the risk. Explain the impact. Help make it safer.
