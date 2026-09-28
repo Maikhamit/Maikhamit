@@ -36,23 +36,12 @@ I’m a cybersecurity Technical Lead with a hands-on background in vulnerability
 <div align="center">
 
 <a href="https://github.com/Maikhamit?tab=overview">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00D26A?style=for-the-badge&labelColor=0D1117" alt="Status: online" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00D26A?style=for-the-badge&labelColor=0D1117" alt="Status: busy" />
 </a>
 <a href="https://github.com/Maikhamit?tab=overview">
   <img src="https://img.shields.io/badge/VIEW-LIVE_CONTRIBUTIONS-00D26A?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="View live GitHub contributions" />
 </a>
 
-<br/><br/>
-
-<code>root@jam:~$ monitor --github-activity</code>
-
-<br/><br/>
-
-<a href="https://github.com/Maikhamit?tab=overview">
-  <strong>↗ Open contribution activity on GitHub</strong>
-</a>
-
-</div>
 
 ### 🧭 How I Work
 
