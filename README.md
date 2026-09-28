@@ -35,14 +35,22 @@ I’m a cybersecurity Technical Lead with a hands-on background in vulnerability
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Maikhamit&bg_color=0D1117&color=39FF88&line=00D26A&point=FFFFFF&area=true&area_color=00D26A&hide_border=true&custom_title=JAM%20%2F%2F%20CONTRIBUTION%20SIGNAL"
-  alt="Jam's GitHub contribution activity graph"
-/>
+<a href="https://github.com/Maikhamit?tab=overview">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00D26A?style=for-the-badge&labelColor=0D1117" alt="Status: online" />
+</a>
+<a href="https://github.com/Maikhamit?tab=overview">
+  <img src="https://img.shields.io/badge/VIEW-LIVE_CONTRIBUTIONS-00D26A?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="View live GitHub contributions" />
+</a>
 
-<br/>
+<br/><br/>
 
-<code>● SYSTEM ONLINE</code> &nbsp; <code>● BUILDING</code> &nbsp; <code>● LEARNING</code>
+<code>root@jam:~$ monitor --github-activity</code>
+
+<br/><br/>
+
+<a href="https://github.com/Maikhamit?tab=overview">
+  <strong>↗ Open contribution activity on GitHub</strong>
+</a>
 
 </div>
 
